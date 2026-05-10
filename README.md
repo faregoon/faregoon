@@ -1,16 +1,13 @@
-## Hi there 👋
+# İstanbul Profesyonel Böcek İlaçlama - Metro Böcek İlaçlama
 
-<!--
-**faregoon/faregoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+İstanbul genelinde güvenilir ve kesin çözümlü **haşere kontrolü** ve **böcek ilaçlama** hizmetleri sunuyoruz. Ev, iş yeri ve fabrika alanlarında sağlığınızı korumak için profesyonel teknikler uyguluyoruz.
 
-Here are some ideas to get you started:
+### Hizmetlerimiz:
+- **Hamam Böceği İlaçlama**
+- **Pire ve Kene Kontrolü**
+- **Fare ve Kemirgen İlaçlama**
+- **Dezenfeksiyon Hizmetleri**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sektörel tecrübemiz ve uzman kadromuzla yanınızdayız. Detaylı bilgi ve randevu için web sitemizi ziyaret edebilirsiniz:
+
+🔗 [Metro Böcek İlaçlama](https://metrobocekilaclama.com)
